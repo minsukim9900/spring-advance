@@ -697,8 +697,7 @@ Proxy 생성과 Bean 교체 과정까지 Spring에 위임하고 개발자는 `Ad
 
 ## 강의 정보
 
--
-강의명: [스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
+- 강의명: [스프링 핵심 원리 - 고급편](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
 - 강사: 김영한
 - 플랫폼: Inflearn
 
